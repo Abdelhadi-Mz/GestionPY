@@ -35,7 +35,7 @@ Approfondir la maîtrise des gestionnaires de contexte pour gérer simultanémen
 - Journalisation des actions dans un fichier `log.txt`.  
 - Sécurité et fermeture des ressources même en cas d’erreur.  
 
-![Voir screenshot](./screenshots/resEx2.png)
+![Voir screenshot](./screenshots/rexEx2.png)
 
 ---
 
